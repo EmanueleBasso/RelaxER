@@ -1,0 +1,2 @@
+class UserInterruptLabellingException(Exception):
+    pass
